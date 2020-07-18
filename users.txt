@@ -1,0 +1,5 @@
+0921456216,Daniel,Sanchez,pepepapo,Ifsnjq6789,danielsanchez@gmail.com,sistemas,023,aerolinea
+0706165727,Renato,Jara,renatojaraor,Wjsfyt6789,renatojaraor@gmail.com,comercialp,12345,TAME
+0706165727,Andres,Paredes,aeparede,Fsiwjx6789,dragonandres@gmail.com,comercialp,123123,AVIANCA
+0909839524,Andres,JAYA,jeanjaya,Ojfs6789,jeanjaya@sexo.com,comercialp,12321313,TAME
+0704994425,Jefferson,Sojos,jsojos,Xtotx6789,jsojos@espol.com,comercialc,1212,TAME

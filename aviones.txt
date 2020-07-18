@@ -1,0 +1,2 @@
+00000,fabricante,modelo,capacidadP,capacidadN,distMax,aereolinea
+12345,RENATOOOOOO,RENATO124444444,100,100,200,TAME

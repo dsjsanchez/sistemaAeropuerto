@@ -1,0 +1,3 @@
+0000,numeroVuelo,cantidadPasajeros,aeroPuertoOrigen,aeropuertoDestino,valor
+0,11122,2,GYE,UIO,616.0
+0,11111,2,gye,io,1232.0
