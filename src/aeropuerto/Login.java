@@ -84,7 +84,7 @@ public class Login {
             }
             else{
                 enteredUser=usuarios.get(usuarios.indexOf(enteredUser));
-                String c=enteredUser.getDepartamento();
+                String c=enteredUser.persona.getDepartamento();
                 System.out.println(c);
                 switch (c){
                     case "sistemas":
