@@ -309,7 +309,7 @@ Laerolinea.setAlignment(Pos.CENTER_LEFT);Laerolinea.setMinWidth(100);
             for (HBox fila : arrayfilas) {
                 fila.setAlignment(Pos.CENTER_RIGHT);
             }fila10.setAlignment(Pos.CENTER);
-            Label head= new Label("Bienvenido: "+administrador.getNombre()+" "+administrador.getApellido());
+            Label head= new Label("Bienvenido: "+administrador.persona.getNombre()+" "+administrador.persona.getApellido());
             //fondo
             BackgroundImage myBI= new BackgroundImage(new Image("/Recursos/fondo.jpg",680,400,false,true), BackgroundRepeat.REPEAT, BackgroundRepeat.REPEAT, BackgroundPosition.CENTER, BackgroundSize.DEFAULT);
             //

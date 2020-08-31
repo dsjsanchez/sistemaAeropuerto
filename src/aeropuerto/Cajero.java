@@ -479,27 +479,27 @@ public class Cajero extends Usuario {
     }
 
     public String getCedula() {
-        return cedula;
+        return super.persona.cedula;
     }
 
     public void setCedula(String cedula) {
-        this.cedula = cedula;
+        super.persona.setCedula(cedula);
     }
 
     public String getNombre() {
-        return nombre;
+        return super.persona.nombre;
     }
 
     public void setNombre(String nombre) {
-        this.nombre = nombre;
+        super.persona.nombre = nombre;
     }
 
     public String getApellido() {
-        return apellido;
+        return super.persona.apellido;
     }
 
     public void setApellido(String apellido) {
-        this.apellido = apellido;
+        super.persona.apellido = apellido;
     }
 
     public String getUsuario() {
@@ -519,19 +519,19 @@ public class Cajero extends Usuario {
     }
 
     public String getEmail() {
-        return email;
+        return super.persona.email;
     }
 
     public void setEmail(String email) {
-        this.email = email;
+        super.persona.email = email;
     }
 
     public String getDepartamento() {
-        return departamento;
+        return super.persona.departamento;
     }
 
     public void setDepartamento(String departamento) {
-        this.departamento = departamento;
+        super.persona.departamento = departamento;
     }
 
     public String getIdentificador() {

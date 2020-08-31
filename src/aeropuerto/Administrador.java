@@ -36,7 +36,7 @@ public class Administrador extends Usuario  {
          Uso este formato de salida para que se ajuste al formato del archivo
          <nombre de usuario>,<contrasenia>
          */
-        return String.format("%s,%s", cedula,nombre,apellido,usuario,password,email,departamento, identificador);
+        return String.format("%s,%s", super.persona.getCedula(),super.persona.getNombre(),super.persona.getApellido(),usuario,password,super.persona.getEmail(),super.persona.getDepartamento(), identificador);
     }
     
    
